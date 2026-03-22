@@ -29,7 +29,7 @@ https://www.aliexpress.com/item/1005008885319773.html
 
 
 
-**Battery:**
+**Battery (6s 1200mah):**
 
 
 
