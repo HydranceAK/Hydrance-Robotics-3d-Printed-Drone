@@ -33,6 +33,8 @@ https://www.aliexpress.com/item/1005008637995187.html
 https://www.aliexpress.com/item/1005009645506956.html
 
 
+**Total Cost: $230 CAD**
+**Total Cost: $167 USD**
 
 _**OPTIONAL:**_
 
