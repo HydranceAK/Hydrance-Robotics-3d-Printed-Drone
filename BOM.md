@@ -1,4 +1,4 @@
-**Motors:**
+**Motors (1750kv):**
 
 
 
@@ -6,12 +6,11 @@ https://www.aliexpress.com/item/1005005247800911.html
 
 
 
-**Transmitter and Receiver:**
+**Transmitter**
 
 
 
-https://www.aliexpress.com/item/1005002741693755.html
-
+https://www.aliexpress.com/item/1005010435495846.html
 
 
 **Propellers:**
@@ -36,11 +35,12 @@ https://www.aliexpress.com/item/1005008885319773.html
 
 https://www.aliexpress.com/item/1005008637995187.html
 
-
-
-**Threaded Inserts:**
+**Receiver:**
 
 
 
-https://www.aliexpress.com/item/1005006472962973.html
+https://www.aliexpress.com/item/1005009645506956.html
+
+
+
 
