@@ -6,6 +6,12 @@ Designed and engineered by Hydrance Robotics
 
 This project is a fully 3D-printed drone designed from scratch with a focus on minimal hardware, ease of assembly, and durability. The design uses a modular approach to simplify repairs and replacements.
 
+**IMPORTANT NOTE!!!**
+
+Please read this carefully. If you're 3d printing the parts for this drone using PETG or PLA on your printer, then go ahead and print. If you're ordering the parts from PCBWay however, then please do not use the STEP or 3MF files from STEP folder, the clearances on this model was specifically made for FDM 3d printing, if you use it on PCBway the parts will be too loose. 
+
+Go to my github page, and in the CAD files, you'll see a folder for PCBWay STEP Files. Please order using those.
+
 **Features & Specifications**
 
 Theoretical top speed: ~200 km/h
